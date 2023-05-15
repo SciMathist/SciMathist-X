@@ -22,8 +22,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SciMathist&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://devhumor.com/content/uploads/images/March2022/java_programmers.png" width="512px"/>
+### 🦄 SciMathist's Repo
+<img src="https://static.wixstatic.com/media/092dab_bd5b36c8346d44fd896b622b6e9c9a2a~mv2.jpg/v1/fill/w_463,h_125,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/image-removebgjpg.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SciMathist&icon=2&color=0)](https://visitcount.itsvg.in)
