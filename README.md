@@ -27,11 +27,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SciMathist&icon=2&color=0)](https://visitcount.itsvg.in)
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/pe07.svg)](https://betteruptime.com/?utm_source=status_badge)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/scimathist) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/scimathist) 
 
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/p1lt.svg)](https://betteruptime.com/?utm_source=status_badge)
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/pe07.svg)](https://betteruptime.com/?utm_source=status_badge)
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
