@@ -8,6 +8,7 @@
 
 
 ## My Skill Set  
+(I'm always learning...🦕)
 <table><tr><td valign="top" width="33%">
 
 
